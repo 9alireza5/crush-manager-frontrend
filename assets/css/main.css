@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: 'iran_sans';
+    src: url('/assets/iran_sans.ttf') format('truetype');
+}
+
+
+
+* {
+    font-family: 'iran_sans', sans-serif;
+    direction: rtl;
+}
